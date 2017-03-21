@@ -10,7 +10,15 @@ Checkout wfrancis.co.za
 
 
 updates from my pc
+<<<<<<< HEAD
  
 
 new branch
  
+=======
+
+
+more changes to main
+
+even more changes
+>>>>>>> refs/remotes/origin/master
